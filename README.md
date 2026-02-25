@@ -10,3 +10,5 @@ The goal of the company is to convert casual riders into annual members due to C
 
 * **Objective of the analysis:**
 The objective of the analysis is to identify trends and patterns in order to understand the needs of the cyclistc riders and design strategies to convert casual riders into annual members.
+
+![](Portada.png)
