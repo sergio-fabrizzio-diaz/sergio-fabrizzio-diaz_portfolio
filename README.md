@@ -1,6 +1,6 @@
 # Sergio Fabrizzio Díaz Cisneros' portfolio
 
-# [Project 1: Cyclistic bike-share analysis - Case study (Excel)](https://github.com/sergio-fabrizzio-diaz/cyclistic-bike-share-case-study-excel.git)
+# [Project: Cyclistic bike-share analysis - Case study (Excel)](https://github.com/sergio-fabrizzio-diaz/cyclistic-bike-share-case-study-excel.git)
 
 This case study analyzes bike-sharing usage patterns to identify trends and opportunities for business improvement.
 
